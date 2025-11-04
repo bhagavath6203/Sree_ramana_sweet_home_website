@@ -104,7 +104,7 @@
             <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Get In Touch</h4>
                 <p><i class="fa fa-map-marker-alt mr-2"></i>sri ramana home foods</p>
-                <p><i class="fa fa-phone-alt mr-2"></i>91-7989264982</p>
+                
                 <p class="m-0"><i class="fa fa-envelope mr-2"></i>sriramanahomefoods@gmail.com</p>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
@@ -161,5 +161,6 @@
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
 </body>
+
 
 </html>
